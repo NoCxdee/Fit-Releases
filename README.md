@@ -12,7 +12,7 @@
 
   ⭐ If you like this project, star it on GitHub!
 
-  [Overview](#overview) • [Features](#features) • [Architecture](#architecture) • [Getting started](#getting-started)
+  [Overview](#overview) • [Features](#features) • [Architecture](#architecture)
 
 </div>
 
