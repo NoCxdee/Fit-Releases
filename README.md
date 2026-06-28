@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/fit_new_logo.png" width="128" alt="Fit Workspace Logo">
+  <img src="https://github.com/NoCxdee/Fit/blob/main/public/fit_new_logo.png" width="128" alt="Fit Workspace Logo">
   
   # Fit
   *The Ultra-Lightweight, AI-Ready Development Workspace*
