@@ -10,7 +10,6 @@
   [![Local AI](https://img.shields.io/badge/Local_AI-ONNX_Runtime-blue?style=flat-square)](#)
   [![GPU Acceleration](https://img.shields.io/badge/GPU_Acceleration-DirectML%20%2F%20CoreML-violet?style=flat-square)](#)
 
-  ⭐ If you like this project, star it on GitHub!
 
   [Overview](#overview) • [Features](#features) • [Architecture](#architecture)
 
